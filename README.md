@@ -33,7 +33,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/maximegris/angular-electron.git
+git clone https://github.com/iansamz/angular-electron-dashboard.git
 ```
 
 Install dependencies with npm :
@@ -114,6 +114,7 @@ You can run tests with the command lines below :
 [<img alt="Maxime GRIS" src="https://avatars2.githubusercontent.com/u/10827551?v=3&s=117" width="117">](https://github.com/maximegris) |
 :---:
 |[Maxime GRIS](https://github.com/maximegris)|
+|[Ian Sam](https://github.com/iansamz)|
 
 [build-badge]: https://travis-ci.org/maximegris/angular-electron.svg?branch=master
 [build]: https://travis-ci.org/maximegris/angular-electron.svg?branch=master
