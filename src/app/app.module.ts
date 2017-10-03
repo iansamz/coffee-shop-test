@@ -27,7 +27,6 @@ import { UpgradeComponent } from './upgrade/upgrade.component';
 
 import { ElectronService } from './providers/electron.service';
 import { environment } from '../environments/index';
-import { AdminComponent } from './admin/admin.component';
 
 @NgModule({
   declarations: [
@@ -39,8 +38,7 @@ import { AdminComponent } from './admin/admin.component';
     IconsComponent,
     MapsComponent,
     NotificationsComponent,
-    UpgradeComponent,
-    AdminComponent,
+    UpgradeComponent
   ],
   imports: [
     BrowserModule,
